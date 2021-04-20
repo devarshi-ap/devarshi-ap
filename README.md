@@ -18,7 +18,7 @@
 - 📚 York Memorial CI Senior pursuing Computer Science Major/Specialist 
 - 🧑🏽‍💻 Code: `Java`, `Python`, `HTML`, `CSS`.
 - 📀 Tools: `Git`, `Django`, `Selenium`.
-- 🌱 Learning `JavaScript`, ``. 
+- 🌱 Learn `JavaScript`, `Swift`, `Angular.js`, `React`, `PostgreSQL`. 
 - 🤔 Need some help with `Space-Time complexity trade-offs`.
 - 🌏 Bucketlist: Travel to all 7 continents; esp. Europe.
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
@@ -31,6 +31,6 @@
 
 ### Checkout my Blog on [Medium](https://cforsmart.medium.com)
 
-- 🔨 Latest Project <a href="">2020 Minimalist Gallery Website</a>
+- 🔨 Latest Project <a href="https://github.com/devarshi-ap/Minimalist-Gallery">2020 Minimalist Gallery Website</a>
 
 <div align="center">
