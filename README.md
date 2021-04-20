@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/dev.ap3/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-    <h3> 🙋🏽‍ Devarshi Patel | 💻 High School CS Student | 🌏 Toronto, Canada </h3> 
+    <h3> 🙋🏽‍ Devarshi Patel | 💻 High School Student | 🌏 Toronto, Canada </h3> 
 </div>
 
 ### About me 
@@ -21,7 +21,7 @@
 - 📀 Tools: `Git`, `Django`, `Selenium`.
 - 🌱 Learning `JavaScript`, ``. 
 - 🤔 Need some help with `Space-Time complexity trade-offs`.
-- 🌏 Bucketlist: Travel to all 7 continents.
+- 🌏 Bucketlist: Travel to all 7 continents; esp. Europe.
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
 - 🔊 Favourite Artists: Santan Dave, Kanye West, ZAYN, John Mayer, Nas, Bruno Mars, Wu-tang Clan, Bob Marley
 - ⚡ Let's get to know each other.
