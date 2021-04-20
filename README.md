@@ -4,10 +4,10 @@
 </div>
  
 <p align='center'> 
-    <a href=""><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=""><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=""><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=""><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/devarshi-patel-0223601b6/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://cforsmart.medium.com"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/DevEast03"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/dev.ap3/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
     <h3> 🙋🏽‍ Devarshi Patel | 💻 High School CS Student | 🌏 Toronto, Canada </h3> 
@@ -19,13 +19,13 @@
 - 🎖 Accomplishments 
 - 🧑🏽‍💻 Code: `Java`, `Python`, `HTML`, `CSS`.
 - 📀 Tools: `Git VCS & Bash`, `Django Framework`, `Selenium`.
-- 🌱 Learning `JavaScript`, ``. 
+- 🌱 Learning `JavaScript`, `TypeScript`, `Node.js`, `PostgreSQL`. 
 - 🤔 Need some help with `Space-Time complexity trade-offs`.
 - 🌏 Bucketlist: Travel to all 7 continents.
 - ⚡ Let's get to know each other.
 
-### Checkout my Blog Posts on [Medium](https://medium.com/@trinwin) & [Dev.to](https://dev.to/trinwin)
+### Checkout my Blog on [Medium](https://cforsmart.medium.com)
 
-- 🔨 <a href="https://medium.com/swlh/2020-complete-setup-for-storybook-nextjs-typescript-scss-and-jest-1c9ce41e6481?source=friends_link&sk=0ea6d7518f60e2921849876e696b1693s">2020 Complete Setup for Storybook, Nextjs, Typescript, SCSS and Jest</a>
+- 🔨 Latest Project <a href="">2020 Minimalist Gallery Website</a>
 
 <div align="center">
