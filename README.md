@@ -24,6 +24,10 @@
 - 🌏 Bucketlist: Travel to all 7 continents; esp. Europe.
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
 - 🔊 Favourite Artists: Santan Dave, Kanye West, ZAYN, John Mayer, Nas, Bruno Mars, Wu-tang Clan, Bob Marley
+- 🗣 Alias:
+  - Bill Nye of Being Fly
+  - Kanye of Code
+  - Jesus Christ of Machine Learning
 - ⚡ Let's get to know each other.
 
 ### Checkout my Blog on [Medium](https://cforsmart.medium.com)
