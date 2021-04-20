@@ -18,10 +18,12 @@
 - 📚 York Memorial CI Senior pursuing Computer Science Major/Specialist 
 - 🎖 Accomplishments 
 - 🧑🏽‍💻 Code: `Java`, `Python`, `HTML`, `CSS`.
-- 📀 Tools: `Git VCS & Bash`, `Django Framework`, `Selenium`.
-- 🌱 Learning `JavaScript`, `TypeScript`, `Node.js`, `PostgreSQL`. 
+- 📀 Tools: `Git`, `Django`, `Selenium`.
+- 🌱 Learning `JavaScript`, ``. 
 - 🤔 Need some help with `Space-Time complexity trade-offs`.
 - 🌏 Bucketlist: Travel to all 7 continents.
+- ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
+- 🔊 Favourite Artists: Santan Dave, Kanye West, ZAYN, John Mayer, Nas, Bruno Mars, Wu-tang Clan, Bob Marley
 - ⚡ Let's get to know each other.
 
 ### Checkout my Blog on [Medium](https://cforsmart.medium.com)
