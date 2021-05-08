@@ -20,7 +20,6 @@
 - 📀 Tools: `Git`, `Django`, `Selenium`.
 - 🌱 Learning: `JavaScript`, `React`. 
 - 🤔 Need some help with `Space-Time complexity trade-offs`.
-- 🌏 Bucketlist: Travel to all 7 continents; esp. Europe.
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
 - 🗣 Alias:
   - Bill Nye of Being Fly
