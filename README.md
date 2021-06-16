@@ -19,7 +19,6 @@
 - 🧑🏽‍💻 Code: `Java`, `Python`, `HTML`, `CSS`.
 - 📀 Tools: `Git`, `Django`, `Selenium`.
 - 🌱 Learning: `Bulma Framework`, `JavaScript`, `React`. 
-- 🤔 Need some help with `Space-Time complexity trade-offs`.
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
 - 🗣 Alias:
   - Bill Nye of Being Fly
