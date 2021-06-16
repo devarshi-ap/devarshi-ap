@@ -18,7 +18,7 @@
 - 📚 York Memorial CI Senior pursuing Computer Science Major/Specialist 
 - 🧑🏽‍💻 Code: `Java`, `Python`, `HTML`, `CSS`.
 - 📀 Tools: `Git`, `Django`, `Selenium`.
-- 🌱 Learning: `JavaScript`, `React`. 
+- 🌱 Learning: `Bulma Framework`, `JavaScript`, `React`. 
 - 🤔 Need some help with `Space-Time complexity trade-offs`.
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
 - 🗣 Alias:
