@@ -16,9 +16,9 @@
 ### About me 
 
 - 📚 York Memorial CI Senior pursuing Computer Science Major/Specialist 
-- 🧑🏽‍💻 Code: `Java`, `Python`, `HTML`, `CSS`.
+- 🧑🏽‍💻 Proficiencies: `Java`, `Python`, `HTML`, `CSS`, `Bulma Framework`.
 - 📀 Tools: `Git`, `Django`, `Selenium`.
-- 🌱 Learning: `Bulma Framework`, `JavaScript`, `React`. 
+- 🌱 Learning: `JavaScript`. 
 - ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
 - 🗣 Alias:
   - Bill Nye of Being Fly
