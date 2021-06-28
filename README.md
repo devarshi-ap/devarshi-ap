@@ -29,6 +29,4 @@
 
 ### Checkout my Blog on [Medium](https://cforsmart.medium.com)
 
-- 🔨 Latest Project <a href="https://github.com/devarshi-ap/Minimalist-Gallery">2020 Minimalist Gallery Website</a>
-
 <div align="center">
