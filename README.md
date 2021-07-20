@@ -15,7 +15,7 @@
 
 ### About me 
 
-- 📚 York Memorial CI Senior pursuing Computer Science Major/Specialist 
+- 📚 Ryerson Computer Science Major/Specialist 
 - 🧑🏽‍💻 Proficiencies: `Java`, `Python`, `HTML`, `CSS`, `Bulma Framework`.
 - 📀 Tools: `Git`, `Django`, `Selenium`.
 - 🌱 Learning: `JavaScript`. 
