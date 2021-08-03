@@ -15,17 +15,11 @@
 
 ### About me 
 
-- 📚 Ryerson Computer Science Major/Specialist 
-- 🧑🏽‍💻 Proficiencies: `Java`, `Python`, `HTML`, `CSS`, `Bulma Framework`.
-- 📀 Tools: `Git`, `Django`, `Selenium`.
+- 📚 Incoming Ryerson Computer Science Student 
+- 🧑🏽‍💻 Proficiencies: `JavaScript`, `Java`, `Python`, `HTML`, `CSS`, `SASS`.
 - 🌱 Learning: `JavaScript`. 
-- ⛹🏽 Shooting Guard. When the game's on the line, I'm in my prime.
-- 🗣 Alias:
-  - Bill Nye of Being Fly
-  - Kanye of Code
-  - Mike Tyson of Python
-  - Jesus Christ of Machine Learning
 - ⚡ Let's get to know each other.
+- [Personal Portfolio Website](https://dev-patel.netlify.app)
 
 ### Checkout my Blog on [Medium](https://cforsmart.medium.com)
 
