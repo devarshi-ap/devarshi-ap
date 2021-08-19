@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/dev.ap3/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-    <h3> 🙋🏽‍ Devarshi Patel | 🌏 Toronto, Canada </h3> 
+    <h3> Devarshi Patel | 🌏 Toronto, Canada </h3> 
 </div>
 
 ### About me 
