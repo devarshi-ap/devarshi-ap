@@ -16,10 +16,9 @@
 ### About me 
 
 - 📚 Incoming Ryerson Computer Science Student 
-- 🧑🏽‍💻 Proficiencies: `JavaScript`, `Java`, `Python`, `HTML`, `CSS`, `SASS`.
-- 🌱 Learning: `JavaScript`. 
+- 🧑🏽‍💻 Proficiencies: `JavaScript`, `Java`, `JQuery`, `Python`, `HTML`, `CSS`, `SASS`.
+- 🌱 Learning: `React`. 
 - ⚡ Let's get to know each other.
-- [Personal Portfolio Website](https://dev-patel.netlify.app)
 
 ### Checkout my Blog on [Medium](https://cforsmart.medium.com)
 
