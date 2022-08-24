@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Dev Patel
 
 <div align="center">
-    <a href="https://devarshi-ap.vercel.app/me.json">
+    <a href="https://devarshi-ap.vercel.app/dev.json">
         <img alt="😵" src="https://devarshi-ap.vercel.app/me-2.svg" />
     </a>
 </div>
