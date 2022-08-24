@@ -1,0 +1,24 @@
+{
+    "name": "Devarshi Patel",
+    "email": "devarshi.patel@ryerson.ca",
+    "url": "https://devarshi.me",
+    "learning": ["tRPC API arch.", "Graph API arch.", "Bash scripting"],
+    "volunteer": {
+        "organization": "Fort York Food Bank (FYFB)",
+        "url": "https://fyfb.com",
+        "summary": "Helping clients choose their groceries, restocking shelves, and breaking down boxes."
+    },
+    "education": {
+        "institution": "Ryerson University",
+        "studyType": "HBSc. - Computer Science",
+        "gpa": 4.2,
+        "semesterNow": [
+            "Data Structures - (CPS305)",
+            "Web Systems Development - (CPS530)",
+            "Unix, C, and C++ - (CPS393)",
+            "Linear Algebra - (MTH108)"
+        ],
+        "awards": ["Ryerson Scholar ($8000)", "2021-22 Dean's List"],
+        "clubs & commitments": ["", "Faculty of Science Frosh", "Intramural Ultimate Frisbee"]
+    }
+}
