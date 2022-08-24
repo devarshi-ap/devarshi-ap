@@ -9,7 +9,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devarshi-ap&show_icons=true&theme=dracula&hide=stars,issues)
 
 
-```ascii          
+```ascii
                                           ^^
     ^^      ..                   I                   ..
             []                   like                []
