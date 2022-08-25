@@ -2,10 +2,11 @@
 
 <div align="center">
     <a href="https://devarshi-ap.vercel.app/dev.json">
-        <img alt="😵" src="https://devarshi-ap.vercel.app/me-2.svg" />
+        <img alt="😵" src="https://devarshi-ap.vercel.app/me.svg" />
     </a>
 </div>
 
+<!--
 ![My github stats](https://github-readme-stats.vercel.app/api?username=devarshi-ap&show_icons=true&theme=dracula&hide=stars,issues)
 
 
@@ -32,3 +33,4 @@ _:_:_:_:_:_:[]:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:[]:_:_:_:_:_:_
             ~^~ - _ ^ - ~~~ _ - _ ~-^ ~ __- ~_ - ~  ~^_-
                 ~ ~- ^~ -  ~^ -  ~ ^~ - ~~  ^~ - ~
 ```
+-->
