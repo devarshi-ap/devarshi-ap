@@ -1,36 +1,3 @@
-## 👋 Hi I'm Dev Patel
-
-<div align="center">
-    <a href="https://devarshi-ap.vercel.app/dev.json">
-        <img alt="😵" src="https://devarshi-ap.vercel.app/me.svg" />
-    </a>
-</div>
-
-<!--
-![My github stats](https://github-readme-stats.vercel.app/api?username=devarshi-ap&show_icons=true&theme=dracula&hide=stars,issues)
-
-
-```ascii
-                                          ^^
-    ^^      ..                   I                   ..
-            []                   like                []
-          .:[]:_          ^^     art               ,:[]:.
-        .: :[]: :-.                             ,-: :[]: :.
-      .: : :[]: : :`._                       ,.': : :[]: : :.
-    .: : : :[]: : : : :-._               _,-: : : : :[]: : : :.
-_..: : : : :[]: : : : : : :-._________.-: : : : : : :[]: : : : :-._
-_:_:_:_:_:_:[]:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:[]:_:_:_:_:_:_
-!!!!!!!!!!!![]!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![]!!!!!!!!!!!!!
-^^^^^^^^^^^^[]^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[]^^^^^^^^^^^^^
-            []                                       []
-            []                                       []
-            []                                       []
- ~~^-~^_~^~/  \~^-~^~_~^-~_^~-^~_^~~-^~_~^~-~_~-^~_^/  \~^-~_~^-~~-
-~ _~~- ~^-^~-^~~- ^~_^-^~~_ -~^_ -~_-~~^- _~~_~-^_ ~^-^~~-_^-~ ~^
-   ~ ^- _~~_-  ~~ _ ~  ^~  - ~~^ _ -  ^~-  ~ _  ~~^  - ~_   - ~^_~
-     ~-  ^_  ~^ -  ^~ _ - ~^~ _   _~^~-  _ ~~^ - _ ~ - _ ~~^ -
-       ~^ -_ ~^^ -_ ~ _ - _ ~^~-  _~ -_   ~- _ ~^ _ -  ~ ^-
-            ~^~ - _ ^ - ~~~ _ - _ ~-^ ~ __- ~_ - ~  ~^_-
-                ~ ~- ^~ -  ~^ -  ~ ^~ - ~~  ^~ - ~
-```
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devarshi-ap&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devarshi-ap&theme=nord_bright) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devarshi-ap&theme=nord_bright)
